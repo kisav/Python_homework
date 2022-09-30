@@ -6,7 +6,7 @@ while True:
 
     print('Решите примеры:')
     print(first_term, '+', second_term)
-    solution = input() 
+    solution = input()
 
     if int(solution) == first_term + second_term:
         print('Вы правильно ответили на этот пример!!!\n Если хотите ответить на него ещё раз, запустите код заново\n')
