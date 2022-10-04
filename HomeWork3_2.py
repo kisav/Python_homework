@@ -1,7 +1,9 @@
 
+truepass = "p4S$w0Rd"
+
 while True:
-    password = int(input('Введите пароль: '))
-    if password == 3853:
+    password = input('Введите пароль: ')
+    if password == truepass:
         print('Вы ввели правильный пароль!')
         break
     else:
