@@ -35,6 +35,7 @@ elif first_option == 4:
         print('Вы пришли в тупик.')
 
 
+
 if first_option == 5:
     print('Вы полезли в верх...')
     time.sleep(6)
